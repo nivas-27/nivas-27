@@ -25,7 +25,8 @@ I build backends, admin platforms and AI-powered features, and I like owning a p
 | Project | What it is | Stack |
 |---|---|---|
 | [**Fluently**](https://github.com/nivas-27/aiSpeachAssistant-oss) · [live](https://fluently.nivasdev.in/app) | AI English-speaking practice in 20-minute voice rooms, with session reports scoring fluency, vocabulary and filler words | FastAPI, MongoDB, React, OpenAI, Gemini |
-| [**Stock Reader**](https://stock-wall.nivasdev.in) | Daily trend dashboard for the Nifty Smallcap 250 with live prices and watchlists | Go (Gin), MongoDB, Kite API |
+| [**Stock Reader**](https://github.com/nivas-27/stock-reader) · [live](https://stock-wall.nivasdev.in) | Daily trend dashboard for the Nifty Smallcap 250 with live prices and watchlists | Go (Gin), MongoDB, Kite API |
+| [**Google Meet Summarizer**](https://github.com/nivas-27/Google-Meet-Bot-summarizer) | Summarizes Google Meet meetings for my team | Python |
 | [**Simula**](https://simula.nivasdev.in/app) | Browser-based 3D engineering simulator with checkable circuit maths | 3D, JavaScript |
 | [**Daily List**](https://to-do.nivasdev.in) | Multi-user daily task tracker with rollover, streaks and heatmap | React, Vite, FastAPI, PostgreSQL, Docker |
 
